@@ -49,7 +49,7 @@
               <form action="signup-inc.php" method="POST">
                   <h1>Sign Up</h1>
                   <div class="social-container">
-                      <a href="https://Github.com/AtharvaKulkarniIT" target="_blank" class="social"><i class="fab fa-github"></i></a>
+                      <a href="https://Github.com/uch4" target="_blank" class="social"><i class="fab fa-github"></i></a>
                   </div>
                 <span>Or use your Email for registration</span>
                 <label>
@@ -73,7 +73,7 @@
               <form action="login-inc.php" method="POST">
                   <h1>Login</h1>
                   <div class="social-container">
-                      <a href="https://Github.com/AtharvaKulkarniIT" target="_blank" class="social"><i class="fab fa-github"></i></a>
+                      <a href="https://Github.com/uch4" target="_blank" class="social"><i class="fab fa-github"></i></a>
                         </div>
                   <label>
                       <input type="text" name="uid" placeholder="Username or Email"/>
