@@ -1,9 +1,5 @@
 # Travelscapes
-<a href="https://github.com/AtharvaKulkarniIT/Travelscapes"><img src="https://visitor-badge.laobi.icu/badge?page_id=AtharvaKulkarniIT.Travelscapes" alt="Visitors"/></a>
-[![GitHub Forks](https://img.shields.io/github/forks/AtharvaKulkarniIT/Travelscapes.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/AtharvaKulkarniIT/Travelscapes/fork)
-<a href="https://github.com/AtharvaKulkarniIT/Travelscapes/stargazers"><img src="https://img.shields.io/github/stars/AtharvaKulkarniIT/Travelscapes" alt="Stars Badge"/></a>
-[![GitHub Issues](https://img.shields.io/github/issues/AtharvaKulkarniIT/Travelscapes.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/AtharvaKulkarniIT/Travelscapes/issues)
-[![contributors 3](https://img.shields.io/badge/contributors-3-brightgreen.svg?style=flat&label=Contributors&colorA=red&colorB=black	)](#)
+
 
 Welcome to Travelscapes, a responsive travel website designed to provide you with seamless travel planning, booking and exploration experiences. Whether you're a seasoned traveler or someone looking for their next adventure, Travelscapes has something for everyone.
 
@@ -30,7 +26,7 @@ To run Travelscapes locally on your machine, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/AtharvaKulkarniIT/Travelscapes.git
+git clone https://github.com/UCH4/Travelscapes.git
 ```
 
 2. Navigate to the directory:
@@ -52,12 +48,7 @@ cd Travelscapes-main
 
 7. You should now see the Travelscapes website running locally on your machine.
 
-## Contributors
 
-- [Atharva Kulkarni](https://github.com/AtharvaKulkarniIT)
-- [Tejas Kulkarni](https://github.com/Tejas466)
-- [Yash Kulkarni](https://github.com/yashkulkarni45)
- 
 
 ## License
 
